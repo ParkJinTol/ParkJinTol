@@ -2,4 +2,4 @@
 
 <a href="https://www.instagram.com/p_j_s0529" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
-<a target="_blank"><img src="https://img.shields.io/badge/minutemailer-30B980?style=flat-square&logo=MY Email&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/minutemailer-30B980?style=flat-square&logo=minutemailer&logoColor=white"/></a>
